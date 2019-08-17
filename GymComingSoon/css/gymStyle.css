@@ -1,0 +1,35 @@
+body{
+    
+    background: url("../images/Gym.jpg") no-repeat center center fixed;
+    background-size: cover;
+font-family: 'Pacifico', cursive;
+
+}
+
+div{
+    background-color: #2D6999;
+    width: 50%;
+    color: white;
+    margin: 150px auto;
+    text-align: center;
+    border-radius: 20px;
+    opacity: 0.9;
+}
+
+button {
+    background: #DE7879;
+    color: white;
+    font-size: 2em;
+    border-radius: 10px;
+    font-family: 'Pacifico', cursive;
+}
+
+h1 {
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    font-size: 3.5em;
+}
+
+p {
+    font-size: 1.8em;
+}
